@@ -1,1 +1,1 @@
-Git is powerful.
+Git is powerful but requires practice.
